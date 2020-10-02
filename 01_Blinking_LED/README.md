@@ -9,6 +9,17 @@ Hampir semua awal dari eksplorasi dan pengembangan yang dilakukan pada embedded 
 * Project Board (1),
 * Kabel Jumper (secukupnya).
 
-### Langkah Proyek:
-1. 
+<img src="/images/Blinking_LED.jpg" height="400">
 
+### Langkah Proyek:
+1. Siapkan alat dan bahan yang dibutuhkan,
+2. Rangkai komponen sesuai dengan gambar diatas,
+3. Hubungkan kabel USB DT-AVR Inoduino ke laptop/PC, kemudian pasang power supply 6.5-12 VDC ke modul dan hubungkan ke sumber jala – jala PLN,
+4. Buka software ArduinoTM IDE,
+5. Jalankan kode program, atur konfigurasi pada software Arduino melalui menu Tools > Board > DT-AVR Inoduino, dan pilih menu Tools > Serial Ports > COMxx,
+6. Tekan tombol upload program,
+7. Amati nyala lampu LED dengan menekan masing-masing push button.
+
+Apabila tidak terdapat kesalahan, maka LED akan menyala ketika salah satu push button ditekan.
+
+Program dimulai dengan pemberian nama variabel atau inisialisasi port masukan dan keluaran (input output). Dengan adanya proses inisialisasi variabel pada port yang digunakan, menyebabkan peripheral masukan dan keluaran dapat dikenali oleh Arduino. Cara inisialisasi port keluaran sama dengan masukan hanya beda dipenulisan. Selanjutnya program void setup merupakan fungsi program yang hanya dieksekusi sekali diawal penggunaan memberikan status pin menjadi input atau output. INPUT_PULLUP merupakan pemanfaatan internal pullup resistor di arduino agar dalam kondisi input yang terbaca hanya 1 atau 0, dengan kondisi defaultnya (terbaca 1 jika tidak ada input) yaitu 1 sehingga input harus active low (input harus 0). Program didalam fungsi loop akan dieksekusi berulang terus - menerus. “else” digunakan pada kondisi ketika push button tidak ditekan sehingga semua LED mati.
