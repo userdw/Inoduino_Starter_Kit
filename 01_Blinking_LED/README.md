@@ -9,7 +9,7 @@ Hampir semua awal dari eksplorasi dan pengembangan yang dilakukan pada embedded 
 * Project Board (1),
 * Kabel Jumper (secukupnya).
 
-<img src="/images/Blinking_LED.jpg" height="400">
+<img src="/images/Blinking_LED.png" height="400">
 
 ### Langkah Proyek:
 1. Siapkan alat dan bahan yang dibutuhkan,
