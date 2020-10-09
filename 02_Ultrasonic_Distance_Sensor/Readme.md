@@ -5,7 +5,7 @@ dengan perhitungan sebagai berikut:
 
 Jarak = (lebar pulsa/29.412)/2 (cm)
 
-### Modul-modul yang dibutuhkan pada proyek ini:
+### Komponen yang dibutuhkan pada proyek ini:
 * DT-AVR Inoduino (1),
 * Sensor ultrasonik (1),
 * LCD 16x2 (1),
