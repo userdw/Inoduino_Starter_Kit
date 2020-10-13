@@ -13,22 +13,22 @@ Dalam starter kit ini telah dilengkapi komponen tambahan yang ditujukan bagi pen
 * Ultrasonic Ranging Module HC-SR04 	   1 buah
 * Photo Conductive Cell			             1 buah
 * LM35 Temperature Sensor	          	   1 buah
-•	Tower Pro SG90 Digital Servo		       1 buah
-•	5V 1 Channel Relay Module with LED	   1 buah
-•	Potentiometer 10K Ohm		               1 buah
-•	Tactile Switch			                   8 buah
-•	Resistor 220 Ohm 0.25W 5%		          10 buah
-•	Resistor 1K Ohm 0.25W 5%		          10 buah
-•	Resistor 10K Ohm 0.25W 5%		          10 buah
-•	LED Red Super Bright 5mm		           4 buah
-•	LED Yellow Super Bright 5mm		         4 buah
-•	LED Green Super Bright 5mm		         4 buah
-•	LED Blue Super Bright 5mm		           4 buah
-•	LED RGB 5mm Common Cathoda		         1 buah
-•	Buzzer DC 5V			                     1 buah
-•	Adaptor 12V			                       1 buah
-•	Breadboard Jumper Wire (male-male)  	20 buah
-•	Breadboard Jumper Wire (male-female)	20 buah
-•	Pin Header				                    16 pin
+* Tower Pro SG90 Digital Servo		       1 buah
+*	5V 1 Channel Relay Module with LED	   1 buah
+*	Potentiometer 10K Ohm		               1 buah
+*	Tactile Switch			                   8 buah
+*	Resistor 220 Ohm 0.25W 5%		          10 buah
+*	Resistor 1K Ohm 0.25W 5%		          10 buah
+*	Resistor 10K Ohm 0.25W 5%		          10 buah
+*	LED Red Super Bright 5mm		           4 buah
+*	LED Yellow Super Bright 5mm		         4 buah
+*	LED Green Super Bright 5mm		         4 buah
+*	LED Blue Super Bright 5mm		           4 buah
+*	LED RGB 5mm Common Cathoda		         1 buah
+*	Buzzer DC 5V			                     1 buah
+*	Adaptor 12V			                       1 buah
+*	Breadboard Jumper Wire (male-male)  	20 buah
+*	Breadboard Jumper Wire (male-female)	20 buah
+*	Pin Header				                    16 pin
 
 <img src="/images/inoduino_partlist.jpg" height="400">
