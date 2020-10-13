@@ -7,12 +7,12 @@ DT-AVR Inoduino telah dilengkapi dengan internal regulator 5VDC dan 3,3VDC yang 
 <img src="/images/DT-AVR_Inoduino.jpg" height="300">
 
 Dalam starter kit ini telah dilengkapi komponen tambahan yang ditujukan bagi pengguna baru yang ingin belajar DT-AVR Inoduino, komponen tersebut antara lain:
-1. DT-AVR Inoduino			                   1 buah
-2. Breadboard 400 tie point		           1 buah
-•	Character LCD 16x2 warna biru          1 buah
-•	Ultrasonic Ranging Module HC-SR04 	   1 buah
-•	Photo Conductive Cell			             1 buah
-•	LM35 Temperature Sensor	          	   1 buah
+* DT-AVR Inoduino			                   1 buah
+* Breadboard 400 tie point		           1 buah
+* Character LCD 16x2 warna biru          1 buah
+* Ultrasonic Ranging Module HC-SR04 	   1 buah
+* Photo Conductive Cell			             1 buah
+* LM35 Temperature Sensor	          	   1 buah
 •	Tower Pro SG90 Digital Servo		       1 buah
 •	5V 1 Channel Relay Module with LED	   1 buah
 •	Potentiometer 10K Ohm		               1 buah
