@@ -9,6 +9,9 @@ Proyek ini ditujukan untuk memberikan contoh sederhana mengenai penggunaan mikro
 * Kabel Jumper (secukupnya).
 
 
+<img src="/images/Weather_Station.png" height="300">
+
+
 ### Langkah Proyek:
 1. Siapkan alat dan bahan yang dibutuhkan,
 2. Rangkai komponen sesuai dengan gambar diatas,
