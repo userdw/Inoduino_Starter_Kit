@@ -13,7 +13,7 @@ Jarak = (lebar pulsa/29.412)/2 (cm)
 * Kabel Jumper (secukupnya).
 
 
-<img src="/images/Ultrasonic_Distance_Sensor.png" height="300">
+<img src="/images/Ultrasonic_Distance_Sensor.png" height="400">
 
 
 ### Langkah Proyek:
